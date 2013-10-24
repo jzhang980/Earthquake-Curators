@@ -9,4 +9,4 @@ Members Stats:
 | Name             | Year  |  Major(s) |Email|
 | -------------    |:------:| :-----: |:-----:|
 | Tristan Tao (Yuqi)| 4th |  Stats/CS |yuqi.t@berk |
-| | | |
+| Theresa Andrasfay (tandrasfay)|4th|Stats | tandrasfay@berk
