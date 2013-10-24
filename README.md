@@ -10,4 +10,5 @@ Members Stats:
 | -------------    |:------:| :-----: |:-----:|
 | Tristan Tao (Yuqi)| 4th |  Stats/CS |yuqi.t@berk |
 | Alisha Agrawal    | 4th |  Stats/MCB|alisha791@berk|
+| Theresa Andrasfay (tandrasfay)|4th|Stats | tandrasfay@berk |
 | | | |
