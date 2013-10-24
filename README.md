@@ -9,4 +9,5 @@ Members Stats:
 | Name             | Year  |  Major(s) |Email|
 | -------------    |:------:| :-----: |:-----:|
 | Tristan Tao (Yuqi)| 4th |  Stats/CS |yuqi.t@berk |
+| Alisha Agrawal    | 4th |  Stats/MCB|alisha791@berk|
 | | | |
