@@ -9,4 +9,12 @@ urllib.urlretrieve(url, 'SCED_catalogs.tar.gz')
 
 # <codecell>
 
+SCSN= 'http://www.data.scec.org/ftp/catalogs/SCSN/SCSN_catalogs.tar.gz'
+urllib.urlretrieve(SCSN, 'SCSN_catalogs.tar.gz')
+
+# <codecell>
+
+
+# <codecell>
+
 
